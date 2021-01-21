@@ -175,6 +175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2251e427ee3d794d820201fce7a9b68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  quitKey: 113
   Reset: 114
 --- !u!114 &7678321840717534565
 MonoBehaviour:
